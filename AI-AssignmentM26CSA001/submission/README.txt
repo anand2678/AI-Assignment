@@ -1,11 +1,3 @@
-================================================================================
-AI ASSIGNMENT 2: GENERAL-PURPOSE CLASSICAL AI REASONING SYSTEM
-================================================================================
-
-COURSE ASSIGNMENT: Autonomous Logical Entailment Reasoning System
-PIPELINE: Natural Language Knowledge Base -> Internal Representation -> Classical Reasoning -> True/False
-STUDENT SUBMISSION DIRECTORY: submission/
-
 --------------------------------------------------------------------------------
 1. SUBMISSION PACKAGE STRUCTURE
 --------------------------------------------------------------------------------
@@ -135,6 +127,3 @@ To run the complete system and reproduce all results:
 4. To recompile report.pdf from Typst source (optional):
     python -c "import typst; typst.compile('submission/report.typ', output='submission/report.pdf')"
 
-================================================================================
-END OF README.txt
-================================================================================
